@@ -56,15 +56,3 @@ console.log(adso2826499Materias);
 adso2826499Materias.shift();    //Extrae al inicio del arreglo
 console.log(adso2826499Materias);
 
-/*      Ejercicio Practico
-
-Concatenar dos arrays X y Y con una Longitud de vector de 4.
-se deben concatenar asi: X0,Y0,X1,Y1,X2,Y2...
-
-*/
-
-var arrayX = ["X0","X1","X2","X3","X4"];
-var arrayY = ["Y0","Y1","Y2","Y3","Y4"];
-console.log(arrayX);
-console.log(arrayY);
-console.log(arrayX[0],",",arrayY[0],",",arrayX[1],arrayY[1]);
